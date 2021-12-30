@@ -1,0 +1,12 @@
+pkg install python3 -y
+pkg install php
+pip install requests
+pip install datatime
+pip install re
+pip install random
+pip insstall sleep
+pip install os
+pip install sys
+pip install json
+
+python3 menu.py
