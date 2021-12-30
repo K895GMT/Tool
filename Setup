@@ -9,4 +9,5 @@ pip install os
 pip install sys
 pip install json
 
+cd /sdcard/Download
 python3 menu.py
